@@ -3,4 +3,5 @@
    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkimmui7&label=donut&countColor=%23697689&style=flat" alt="Visitors">
 
   ​ ​​​ ​​  ㅤ
+<img width="725" height="520" alt="soomin   jaeha" src="https://github.com/user-attachments/assets/ebf38c99-226b-4b2e-ba36-d303e441b941" />
 
